@@ -1,0 +1,23 @@
+.line
+{
+background-color: aquamarine;
+width: 100px;
+height:5px;
+margin:8px auto;
+
+}
+
+#app
+{
+    background-color: blueviolet;
+}
+#game
+{
+  background-color: darkgreen;  
+}
+h1
+{
+text-align: center;
+
+}
+
